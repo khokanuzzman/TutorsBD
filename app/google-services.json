@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1037855976803",
+    "firebase_url": "https://tutorisbdservice.firebaseio.com",
+    "project_id": "tutorisbdservice",
+    "storage_bucket": "tutorisbdservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037855976803:android:80b4c844574cf58d",
+        "android_client_info": {
+          "package_name": "com.example.khokan.tutorisbdservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037855976803-jn12j2ateaask642fdvi537398bsifah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khokan.tutorisbdservice",
+            "certificate_hash": "207a8840446b03a0c0896e7f8aa13b8758b8bda8"
+          }
+        },
+        {
+          "client_id": "1037855976803-b53crda3qpopc30b36c9cu8ragdakuma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDJipFU994BE39HgjMmr5wLxAV1IiMdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037855976803-b53crda3qpopc30b36c9cu8ragdakuma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

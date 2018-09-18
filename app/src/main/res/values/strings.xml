@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TutorisBDService</string>
+    <string name="need_a_account">Need a New Account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="display_name">Display Name</string>
+    <string name="password">password</string>
+    <string name="log_out">Log Out</string>
+    <string name="email">Email</string>
+    <string name="create_an_account">Create a New Account</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_tutorsbd">Welcome to TutorsBd</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="all_users">All Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there_i_am_using_tutorsbdservices">Hi! there, I am using TutorsBDServices</string>
+    <string name="change_image">Change Image</string>
+    <string name="change_status">Change Status</string>
+    <string name="save_changes">save changes</string>
+    <string name="your_status">your status</string>
+</resources>
